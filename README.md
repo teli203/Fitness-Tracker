@@ -80,7 +80,7 @@ MongoDB content borrowed from this page.
 Download MongoDB.
 
 Questions
-You can contact Telicia Watson through GitHub for any additional questions and/ or clarifications you may need about the project.
+You can contact Telicia Watson through GitHub https://github.com/teli203 for any additional questions and/ or clarifications you may need about the project.
 
 License:
 MIT License
